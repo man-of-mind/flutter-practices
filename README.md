@@ -1,4 +1,5 @@
-# dice_app
+# Flutter examples
+These contains three basic flutter apps used to learn flutter functionalities, dice app, magic 8 and the xylophone app.
 
 A new Flutter application.
 
